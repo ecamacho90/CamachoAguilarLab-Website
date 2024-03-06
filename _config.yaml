@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: ecamacho90
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Camacho-Aguilar Lab
+subtitle: at Centro Andaluz de Biología del Desarrollo (CABD)
+description: The Sy(Stem)s Developmental Biology Lab.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@ecamacho90.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: ecamagu@upo.es
+  orcid: 0000-0001-9058-6663
+  google-scholar: dMKRYTAAAAAJ
   github: ecamacho90
-  twitter: ecamacho90
-  youtube: ecamacho90
+  twitter: elecamagu
+  youtube: elecamagu
 
 ### jekyll settings
 
