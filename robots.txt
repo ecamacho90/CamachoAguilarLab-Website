@@ -1,1 +1,1 @@
-Sitemap: /CamachoAguilarLab-Website/sitemap.xml
+Sitemap: /sitemap.xml
