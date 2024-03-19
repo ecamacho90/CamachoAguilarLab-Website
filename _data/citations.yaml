@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.03.13.584912
+  title: Endogenous Nodal switches Wnt interpretation from posteriorization to germ
+    layer differentiation in geometrically constrained human pluripotent cells
+  authors:
+  - Miguel Angel Ortiz-Salazar
+  - Elena Camacho-Aguilar
+  - Aryeh Warmflash
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-14'
+  link: https://doi.org/gtm6h7
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-023-39025-z
   title: 'Author Correction: Membrane potential drives the exit from pluripotency
     and cell fate commitment via calcium and mTOR'
