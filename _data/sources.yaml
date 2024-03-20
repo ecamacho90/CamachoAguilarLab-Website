@@ -1,23 +1,139 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1101/2024.03.13.584912
+  title: Endogenous Nodal switches Wnt interpretation from posteriorization to germ
+    layer differentiation in geometrically constrained human pluripotent cells
+  authors:
+  - Miguel Angel Ortiz-Salazar
+  - Elena Camacho-Aguilar
+  - Aryeh Warmflash
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-14'
+  link: https://doi.org/gtm6h7
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-39025-z
+  title: 'Author Correction: Membrane potential drives the exit from pluripotency
+    and cell fate commitment via calcium and mTOR'
+  authors:
+  - Emily Sempou
+  - Valentyna Kostiuk
+  - Jie Zhu
+  - M. Cecilia Guerra
+  - Leonid Tyan
+  - Woong Hwang
+  - Elena Camacho-Aguilar
+  - Michael J. Caplan
+  - David Zenisek
+  - Aryeh Warmflash
+  - Nick D. L. Owens
+  - Mustafa K. Khokha
+  publisher: Nature Communications
+  date: '2023-06-05'
+  link: https://doi.org/gtkxk4
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.11.516212
+  title: Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen
+    in time but not in concentration
+  authors:
+  - Elena Camacho-Aguilar
+  - Sumin Yoon
+  - Miguel A. Ortiz-Salazar
+  - Aryeh Warmflash
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-11-12'
+  link: https://doi.org/gtkxk5
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-34363-w
+  title: Membrane potential drives the exit from pluripotency and cell fate commitment
+    via calcium and mTOR
+  authors:
+  - Emily Sempou
+  - Valentyna Kostiuk
+  - Jie Zhu
+  - M. Cecilia Guerra
+  - Leonid Tyan
+  - Woong Hwang
+  - Elena Camacho-Aguilar
+  - Michael J. Caplan
+  - David Zenisek
+  - Aryeh Warmflash
+  - Nick D. L. Owens
+  - Mustafa K. Khokha
+  publisher: Nature Communications
+  date: '2022-11-05'
+  link: https://doi.org/grpqvq
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cels.2021.08.013
+  title: Statistically derived geometrical landscapes capture principles of decision-making
+    dynamics during cell fate transitions
+  authors:
+  - "Meritxell S\xE1ez"
+  - Robert Blassberg
+  - Elena Camacho-Aguilar
+  - Eric D. Siggia
+  - David A. Rand
+  - James Briscoe
+  publisher: Cell Systems
+  date: '2022-01-01'
+  link: https://doi.org/gmv9z3
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1009034
+  title: Quantifying cell transitions in C. elegans with data-fitted landscape models
+  authors:
+  - Elena Camacho-Aguilar
+  - Aryeh Warmflash
+  - David A. Rand
+  publisher: PLOS Computational Biology
+  date: '2021-06-01'
+  link: https://doi.org/gtkxk6
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.03.11.434982
+  title: A quantitative landscape of cell fate transitions identifies principles of
+    cellular decision-making
+  authors:
+  - "M. S\xE1ez"
+  - R. Blassberg
+  - E. Camacho-Aguilar
+  - E. D. Siggia
+  - D. Rand
+  - J. Briscoe
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-11'
+  link: https://doi.org/gsx3cv
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.22.426019
+  title: Quantifying cell transitions in<i>C. elegans</i>with data-fitted landscape
+    models
+  authors:
+  - Elena Camacho-Aguilar
+  - Aryeh Warmflash
+  - David A. Rand
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-01-22'
+  link: https://doi.org/gszbh8
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/bs.ctdb.2019.11.010
+  title: Insights into mammalian morphogen dynamics from embryonic stem cell systems
+  authors:
+  - Elena Camacho-Aguilar
+  - Aryeh Warmflash
+  publisher: Current Topics in Developmental Biology
+  date: '2020-01-01'
+  link: https://doi.org/gtkxk7
+  orcid: 0000-0001-9058-6663
+  plugin: orcid.py
+  file: orcid.yaml
