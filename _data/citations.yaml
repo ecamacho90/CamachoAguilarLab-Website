@@ -11,8 +11,8 @@
   date: '2024-03-14'
   link: https://doi.org/gtm6h7
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-023-39025-z
   title: 'Author Correction: Membrane potential drives the exit from pluripotency
     and cell fate commitment via calcium and mTOR'
@@ -33,8 +33,8 @@
   date: '2023-06-05'
   link: https://doi.org/gtkxk4
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.11.11.516212
   title: Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen
     in time but not in concentration
@@ -47,8 +47,8 @@
   date: '2022-11-12'
   link: https://doi.org/gtkxk5
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-022-34363-w
   title: Membrane potential drives the exit from pluripotency and cell fate commitment
     via calcium and mTOR
@@ -69,8 +69,8 @@
   date: '2022-11-05'
   link: https://doi.org/grpqvq
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cels.2021.08.013
   title: Statistically derived geometrical landscapes capture principles of decision-making
     dynamics during cell fate transitions
@@ -85,8 +85,8 @@
   date: '2022-01-01'
   link: https://doi.org/gmv9z3
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1009034
   title: Quantifying cell transitions in C. elegans with data-fitted landscape models
   authors:
@@ -97,8 +97,8 @@
   date: '2021-06-01'
   link: https://doi.org/gtkxk6
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2021.03.11.434982
   title: A quantitative landscape of cell fate transitions identifies principles of
     cellular decision-making
@@ -113,8 +113,8 @@
   date: '2021-03-11'
   link: https://doi.org/gsx3cv
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2021.01.22.426019
   title: Quantifying cell transitions in<i>C. elegans</i>with data-fitted landscape
     models
@@ -126,8 +126,8 @@
   date: '2021-01-22'
   link: https://doi.org/gszbh8
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/bs.ctdb.2019.11.010
   title: Insights into mammalian morphogen dynamics from embryonic stem cell systems
   authors:
@@ -137,63 +137,5 @@
   date: '2020-01-01'
   link: https://doi.org/gtkxk7
   orcid: 0000-0001-9058-6663
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
