@@ -87,6 +87,7 @@
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
+  image: https://www.cell.com/cms/attachment/716ef181-b032-4bec-818f-c35a02401580/fx1.jpg
 - id: doi:10.1371/journal.pcbi.1009034
   title: Quantifying cell transitions in C. elegans with data-fitted landscape models
   authors:
