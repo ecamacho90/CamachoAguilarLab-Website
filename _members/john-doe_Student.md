@@ -1,8 +1,8 @@
 ---
 name: This could be you
 image: images/Scientist.png
-role: phd
+role: student
 group: alum
 links:
-  github: This could be you
+  github: This could be you!
 ---
