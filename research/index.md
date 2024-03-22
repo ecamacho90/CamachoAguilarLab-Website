@@ -1,20 +1,23 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-book" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here are some highlights of our publications followed by all our publications below. 
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen in time but not in concentration" style="rich" %}
+
+{% include citation.html lookup="Statistically derived geometrical landscapes capture principles of decision-making dynamics during cell fate transitions" style="rich" %}
+
+{% include citation.html lookup="Quantifying cell transitions in C. elegans with data-fitted landscape models" style="rich" %}
 
 {% include section.html %}
 
