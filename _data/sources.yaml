@@ -5,7 +5,7 @@
   - Miguel Angel Ortiz-Salazar
   - Elena Camacho-Aguilar
   - Aryeh Warmflash
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Pre-print on bioRxiv
   date: '2024-03-14'
   link: https://doi.org/gtm6h7
   orcid: 0000-0001-9058-6663
@@ -41,7 +41,7 @@
   - Sumin Yoon
   - Miguel A. Ortiz-Salazar
   - Aryeh Warmflash
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Pre-print on bioRxiv
   date: '2022-11-12'
   link: https://doi.org/gtkxk5
   orcid: 0000-0001-9058-6663
@@ -107,20 +107,20 @@
   - E. D. Siggia
   - D. Rand
   - J. Briscoe
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Pre-print on bioRxiv
   date: '2021-03-11'
   link: https://doi.org/gsx3cv
   orcid: 0000-0001-9058-6663
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.01.22.426019
-  title: Quantifying cell transitions in<i>C. elegans</i>with data-fitted landscape
+  title: Quantifying cell transitions in <i>C. elegans</i> with data-fitted landscape
     models
   authors:
   - Elena Camacho-Aguilar
   - Aryeh Warmflash
   - David A. Rand
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Pre-print on bioRxiv
   date: '2021-01-22'
   link: https://doi.org/gszbh8
   orcid: 0000-0001-9058-6663
