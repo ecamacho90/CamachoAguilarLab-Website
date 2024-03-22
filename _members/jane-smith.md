@@ -1,19 +1,12 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Elena Camacho Aguilar
+image: images/ElenaCamachoAguilar-Foto-2.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - E. Camacho-Aguilar
+  - E Camacho-Aguilar
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-9058-6663
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Elena completed a 5-year degree in Mathematics at the University of Seville, completing two undergraduate research fellowships in the Department of Algebra under the supervision of Prof. Fco. Jesús Castro-Jiménez and Prof. Antonio Rojas. Funded by a La Caixa Foundation Scholarship and an EPSRC doctoral Scholarship, she completed an MSc and PhD in Interdisciplinary Mathematics under the supervision of Prof. David A. Rand. Her work focused on mathematically formalizing the Waddington landscape metaphor, and she leveraged this novel mathematical framework to study C. elegans vulval development and murine trunk development, the latter in collaboration with Prof. James Briscoe (UK) and Prof. Eric Siggia (USA). In March 2018, she joined Prof. Aryeh Warmflash’s lab at Rice University to gain first-hand experimental experience in stem cell research and bioengineering techniques. In November 2023, she started her lab the Centro Andaluz de Biología del Desarrollo as a María de Maeztu Junior Principal Investigator.
