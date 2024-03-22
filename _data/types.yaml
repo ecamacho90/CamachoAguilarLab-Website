@@ -26,6 +26,14 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+researcher:
+  icon: fa-solid fa-graduation-cap
+  description: PhD or Predoc Researcher
+  
+student:
+  icon: fa-solid fa-graduation-cap
+  description: MSc or Undergraduate Student
+
 # general
 
 link:
