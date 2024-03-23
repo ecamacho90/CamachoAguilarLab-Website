@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Camacho-Aguilar Lab
 subtitle: at Centro Andaluz de Biología del Desarrollo (CABD)
-description: The Sy(Stem)s Developmental Biology Lab.
+description: The Sy(stem)s Developmental Biology Lab.
 header: images/mainimage.jpg
 footer: images/mainimage.jpg
 
@@ -12,7 +12,7 @@ links:
   google-scholar: dMKRYTAAAAAJ
   github: ecamacho90
   twitter: elecamagu
-  youtube: elecamagu
+  youtube: UCHMch9xKv69eJMHBNvCOgvg
 
 ### jekyll settings
 
