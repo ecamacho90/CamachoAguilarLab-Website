@@ -40,10 +40,10 @@
   title: Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen
     in time but not in concentration
   authors:
-  - Elena Camacho-Aguilar
+  - "Elena Camacho-Aguilar<sup>\u2020</sup>"
   - Sumin Yoon
   - Miguel A. Ortiz-Salazar
-  - Aryeh Warmflash
+  - "Aryeh Warmflash<sup>\u2020</sup>"
   publisher: Pre-print on bioRxiv
   date: '2022-11-12'
   link: https://doi.org/gtkxk5
@@ -125,9 +125,9 @@
   title: Quantifying cell transitions in <i>C. elegans</i> with data-fitted landscape
     models
   authors:
-  - "Elena Camacho-Aguilar\u2020"
+  - Elena Camacho-Aguilar
   - Aryeh Warmflash
-  - "David A. Rand\u2020"
+  - David A. Rand
   publisher: Pre-print on bioRxiv
   date: '2021-01-22'
   link: https://doi.org/gszbh8
