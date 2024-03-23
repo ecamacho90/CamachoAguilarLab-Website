@@ -34,8 +34,8 @@ Our lab is located at the [Centro Andaluz de Biologia del Desarrollo (CABD)](htt
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cabd1.jpeg"
+  caption="CABD Building (outside)"
 %}
 
 {% endcapture %}
@@ -44,8 +44,8 @@ Our lab is located at the [Centro Andaluz de Biologia del Desarrollo (CABD)](htt
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/CABD.jpeg"
+  caption="CABD Building (inside)"
 %}
 
 {% endcapture %}
