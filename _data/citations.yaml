@@ -119,6 +119,7 @@
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 - id: doi:10.1101/2021.01.22.426019
   title: Quantifying cell transitions in <i>C. elegans</i> with data-fitted landscape
     models
@@ -132,6 +133,7 @@
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 - id: doi:10.1016/bs.ctdb.2019.11.010
   title: Insights into mammalian morphogen dynamics from embryonic stem cell systems
   authors:
