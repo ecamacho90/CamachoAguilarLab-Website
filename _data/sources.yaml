@@ -50,7 +50,7 @@
   orcid: 0000-0001-9058-6663
   plugin: orcid.py
   file: orcid.yaml
-  image: Graphical_Abstract_v5_Final.jpg
+  image: images/Graphical_Abstract_v5_Final.jpg
   
 - id: doi:10.1038/s41467-022-34363-w
   title: Membrane potential drives the exit from pluripotency and cell fate commitment
