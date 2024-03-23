@@ -12,7 +12,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 If you are interested in becoming involved in our research, please [reach out](/contact)!
 
