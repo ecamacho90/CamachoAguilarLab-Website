@@ -57,12 +57,12 @@
   title: Statistically derived geometrical landscapes capture principles of decision-making
     dynamics during cell fate transitions
   authors:
-  - "Meritxell S\xE1ez"
+  - "Meritxell S\xE1ez"<sup>*</sup>
   - Robert Blassberg<sup>*</sup>
   - Elena Camacho-Aguilar<sup>*</sup>
   - Eric D. Siggia
-  - David A. Rand
-  - James Briscoe
+  - David A. Rand<sup>+</sup>
+  - James Briscoe<sup>+</sup>
   publisher: Cell Systems
   date: '2022-01-01'
   link: https://doi.org/gmv9z3
