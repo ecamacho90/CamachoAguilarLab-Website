@@ -57,12 +57,12 @@
   title: Statistically derived geometrical landscapes capture principles of decision-making
     dynamics during cell fate transitions
   authors:
-  - "Meritxell S\xE1ez"
-  - Robert Blassberg
-  - Elena Camacho-Aguilar
+  - "Meritxell S\xE1ez"<sup>*</sup>
+  - Robert Blassberg<sup>*</sup>
+  - Elena Camacho-Aguilar<sup>*</sup>
   - Eric D. Siggia
-  - David A. Rand
-  - James Briscoe
+  - David A. Rand<sup>+</sup>
+  - James Briscoe<sup>+</sup>
   publisher: Cell Systems
   date: '2022-01-01'
   link: https://doi.org/gmv9z3
@@ -74,9 +74,9 @@
 - id: doi:10.1371/journal.pcbi.1009034
   title: Quantifying cell transitions in C. elegans with data-fitted landscape models
   authors:
-  - Elena Camacho-Aguilar
+  - Elena Camacho-Aguilar<sup>+</sup>
   - Aryeh Warmflash
-  - David A. Rand
+  - David A. Rand<sup>+</sup>
   publisher: PLOS Computational Biology
   date: '2021-06-01'
   link: https://doi.org/gtkxk6
@@ -89,12 +89,12 @@
   title: A quantitative landscape of cell fate transitions identifies principles of
     cellular decision-making
   authors:
-  - "M. S\xE1ez"
-  - R. Blassberg
-  - E. Camacho-Aguilar
+  - "M. S\xE1ez"<sup>*</sup>
+  - R. Blassberg<sup>*</sup>
+  - E. Camacho-Aguilar<sup>*</sup>
   - E. D. Siggia
-  - D. Rand
-  - J. Briscoe
+  - D. Rand<sup>+</sup>
+  - J. Briscoe<sup>+</sup>
   publisher: Pre-print on bioRxiv
   date: '2021-03-11'
   link: https://doi.org/gsx3cv
@@ -107,9 +107,9 @@
   title: Quantifying cell transitions in <i>C. elegans</i> with data-fitted landscape
     models
   authors:
-  - Elena Camacho-Aguilar
+  - Elena Camacho-Aguilar<sup>+</sup>
   - Aryeh Warmflash
-  - David A. Rand
+  - David A. Rand<sup>+</sup>
   publisher: Pre-print on bioRxiv
   date: '2021-01-22'
   link: https://doi.org/gszbh8
