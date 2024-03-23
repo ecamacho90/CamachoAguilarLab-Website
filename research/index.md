@@ -9,6 +9,8 @@ nav:
 
 Here are some highlights of our publications followed by all our publications below. 
 
+(<sup>*</sup> = equal contribution, <sup>+</sup> = corresponding authors)
+
 {% include section.html %}
 
 ## Highlighted
