@@ -13,7 +13,7 @@
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
-  image: images/MAOS_Micropattern.jpg
+  image: images/MAOS_Micropattern.png
 - id: doi:10.1038/s41467-023-39025-z
   title: 'Author Correction: Membrane potential drives the exit from pluripotency
     and cell fate commitment via calcium and mTOR'
@@ -34,8 +34,8 @@
   date: '2023-06-05'
   link: https://doi.org/gtkxk4
   orcid: 0000-0001-9058-6663
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.11.11.516212
   title: Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen
     in time but not in concentration
@@ -73,6 +73,7 @@
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
+  image: Membrane_potential.png
 - id: doi:10.1016/j.cels.2021.08.013
   title: Statistically derived geometrical landscapes capture principles of decision-making
     dynamics during cell fate transitions
@@ -145,3 +146,4 @@
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0070215320X00032-cov200h.gif
