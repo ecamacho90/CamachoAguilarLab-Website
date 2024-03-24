@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Software, datasets, and more
+  tooltip: About our research
 ---
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Research
