@@ -52,6 +52,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Graphical_Abstract_v5_Final.jpg
+  repo: https://github.com/warmflashlab/Camacho-Aguilar2022_BMPWNT
 - id: doi:10.1038/s41467-022-34363-w
   title: Membrane potential drives the exit from pluripotency and cell fate commitment
     via calcium and mTOR
@@ -75,6 +76,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Membrane_potential.jpg
+  repo: https://github.com/warmflashlab/Sempou2022_Code
 - id: doi:10.1016/j.cels.2021.08.013
   title: Statistically derived geometrical landscapes capture principles of decision-making
     dynamics during cell fate transitions
@@ -105,6 +107,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/VulvalDevelopment_Striking_Image.jpg
+  repo: https://github.com/ecamacho90/VulvalDevelopment
 - id: doi:10.1101/2021.03.11.434982
   title: A quantitative landscape of cell fate transitions identifies principles of
     cellular decision-making
