@@ -1,6 +1,6 @@
 [data-dark=false] {
   --primary: #079faa;
-  --secondary: #f94bc8;
+  --secondary: #ff66cc;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -11,7 +11,7 @@
 
 [data-dark=true] {
   --primary: #f94bc8;
-  --secondary: #079faa;
+  --secondary: #ff66cc;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
