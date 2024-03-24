@@ -5,6 +5,7 @@ role: pi
 aliases:
   - E. Camacho-Aguilar
   - E Camacho-Aguilar
+  - Elena Camacho-Aguilar
 links:
   orcid: 0000-0001-9058-6663
   google-scholar: dMKRYTAAAAAJ
