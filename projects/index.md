@@ -13,9 +13,12 @@ While answering this directly in humans presents technical and ethical challenge
 
 We are dedicated to merging **stem cell research** and **mathematics** to enhance our understanding of development. Some topics we are interested in are: dynamic signalling interpretation, cell-cell interactions, patterning, mathematical modelling of cell fate transitions.
 
-{% include tags.html tags="publication" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
+{%
+  include button.html
+  link="publications"
+  text="Read more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
