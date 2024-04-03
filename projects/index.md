@@ -15,7 +15,7 @@ We are dedicated to merging **stem cell research** and **mathematics** to enhanc
 
 {%
   include button.html
-  link="publications"
+  link="research"
   text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
