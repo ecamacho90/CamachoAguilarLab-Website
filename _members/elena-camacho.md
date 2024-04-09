@@ -1,5 +1,5 @@
 ---
-name: Elena Camacho Aguilar
+name: Elena Camacho-Aguilar
 image: images/ElenaCamachoAguilar-Foto-2.jpg
 role: pi
 aliases:
