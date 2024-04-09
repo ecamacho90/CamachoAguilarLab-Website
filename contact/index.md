@@ -18,8 +18,8 @@ Our lab is located at the [Centro Andaluz de Biologia del Desarrollo (CABD)](htt
 {%
   include button.html
   type="phone"
-  text="+34 954 977‬‬‬ 917"
-  link="+34 954 977‬‬‬ 917"
+  text="+34 954 349 197"
+  link="+34 954 349 197"
 %}
 {%
   include button.html
