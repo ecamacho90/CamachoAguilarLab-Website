@@ -1,7 +1,7 @@
 ---
 name: Andrea Theodorou
 description: Lab Technician
-image: images/Andrea_Square.jpg
+image: images/Andrea_Square.png
 role: researcher
 ---
 
