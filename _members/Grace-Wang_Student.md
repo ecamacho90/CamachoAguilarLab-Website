@@ -2,7 +2,7 @@
 name: Grace Wang
 description: Undergraduate Student (Co-supervised with Dr. Aryeh Warmflash)
 image: images/Grace_Square.png
-role: researcher
+role: Programmer
 ---
 
 Grace is an undergraduate student at Rice University studying Computational and Applied Math, Data Science, and Statistics. In January 2022, she began working with Dr. Camacho-Aguilar in Dr. Aryeh Warmflash's lab at Rice University, where she developed experience in computational biology and mathematical modeling. In the future, Grace intends to pursue a career in data science and is particularly interested in computational biology.
