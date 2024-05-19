@@ -22,13 +22,13 @@
   - Sumin Yoon
   - Miguel A. Ortiz-Salazar
   - Aryeh Warmflash<sup>+</sup>
-  publisher: Accepted in Cell Systems
+  publisher: Pre-print on bioRxiv
   date: '2022-11-12'
   link: https://doi.org/gtkxk5
   orcid: 0000-0001-9058-6663
   plugin: sources.py
   file: sources.yaml
-  image: images/Graphical_Abstract_v5_Final.jpg
+  image: images/biorxiv.jpg
   repo: https://github.com/warmflashlab/Camacho-Aguilar2022_BMPWNT
 - id: doi:10.1038/s41467-022-34363-w
   title: Membrane potential drives the exit from pluripotency and cell fate commitment
@@ -128,3 +128,21 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0070215320X00032-cov200h.gif
+- id: doi:10.1016/j.cels.2024.04.001
+  title: Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen
+    in time but not in concentration
+  authors:
+  - Elena Camacho-Aguilar<sup>+</sup>
+  - Sumin Yoon
+  - Miguel A. Ortiz-Salazar
+  - Siqi Du
+  - M. Cecilia Guerra
+  - Aryeh Warmflash<sup>+</sup>
+  publisher: Cell Systems
+  date: '2024-05-15'
+  link: https://doi.org/10.1016/j.cels.2024.04.001
+  orcid: 0000-0001-9058-6663
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Graphical_Abstract_v5_Final.jpg
+  repo: https://github.com/warmflashlab/Camacho-Aguilar2022_BMPWNT
