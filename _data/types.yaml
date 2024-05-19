@@ -29,6 +29,10 @@ mascot:
 researcher:
   icon: fa-solid fa-graduation-cap
   description: Postdoc or Predoc Researcher
+
+labtech:
+  icon: fa-solid fa-flask
+  description: Lab Technician
   
 student:
   icon: fa-solid fa-graduation-cap
