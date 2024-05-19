@@ -7,7 +7,7 @@ With a multidisciplinary mindset, our lab leverages in vitro experimental studie
 
 {% capture content %}
 {% include figure.html image="images/  image="images/2024_Lab_Picture.jpg".jpg" width="50%" %}
-{% endcapture %}
+{% end capture %}
 
 {%
   include float.html
