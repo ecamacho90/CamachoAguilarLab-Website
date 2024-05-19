@@ -129,8 +129,8 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0070215320X00032-cov200h.gif
 - id: doi:10.1016/j.cels.2024.04.001
-  title: Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen
-    in time but not in concentration
+  title: Combinatorial interpretation of BMP and WNT controls the decision between
+    primitive streak and extraembryonic fates
   authors:
   - Elena Camacho-Aguilar<sup>+</sup>
   - Sumin Yoon
