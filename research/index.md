@@ -15,7 +15,7 @@ Here are some highlights of our publications followed by all our publications be
 
 ## Highlighted
 
-{% include citation.html lookup="Combinatorial interpretation of BMP and WNT allows BMP to act as a morphogen in time but not in concentration" style="rich" %}
+{% include citation.html lookup="Combinatorial interpretation of BMP and WNT controls the decision between primitive streak and extraembryonic fates" style="rich" %}
 
 {% include citation.html lookup="Statistically derived geometrical landscapes capture principles of decision-making dynamics during cell fate transitions" style="rich" %}
 
