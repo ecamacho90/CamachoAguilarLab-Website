@@ -5,15 +5,6 @@
 
 With a multidisciplinary mindset, our lab leverages in vitro experimental studies with stem cells, bioengineering techniques, and novel mathematical modeling approaches to study how cells interact and interpret dynamic signaling in time and space to create precise patterns during human embryonic development.
 
-{% capture content %}
-{% include figure.html image="images/  image="images/2024_Lab_Picture.jpg".jpg" width="50%" %}
-{% end capture %}
-
-{%
-  include float.html
-  content=content
-%}
-
 Our lab is located at the [Andalusian Center for Developmental Biology (CABD)](https://www.cabd.es/en/) within the Universidad Pablo de Olavide (Seville, Spain).
 
 Kindness, curiosity, and teamwork are core values in our lab.
