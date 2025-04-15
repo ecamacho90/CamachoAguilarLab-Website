@@ -12,17 +12,17 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html dark=true %}
-
-If you are interested in becoming involved in our research, please [reach out](/contact)!
-
 {% include section.html %}
 
-# Previous members
+## Previous members
 
 Irene Carrero Castro (MSc Student)
 
 Grace Wang (Undergraduate Researcher)
+
+{% include section.html dark=true %}
+
+If you are interested in becoming involved in our research, please [reach out](/contact)!
 
 {% capture content %}
 
