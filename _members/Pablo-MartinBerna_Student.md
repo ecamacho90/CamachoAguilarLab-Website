@@ -1,7 +1,7 @@
 ---
 name: Pablo Martín Berna
 description: Undergraduate Student (Co-supervised with Prof. M José Jimenez)
-image: images/PabloMartin_Square
+image: images/PabloMartin_Square.jpg
 role: programmer
 ---
 
