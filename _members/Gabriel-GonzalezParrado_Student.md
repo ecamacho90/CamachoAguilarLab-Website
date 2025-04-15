@@ -1,6 +1,6 @@
 ---
 name: Gabriel Gonzalez Parrado
-description: Undergraduate Researcher 
+description: Undergraduate Student 
 role: labtech
 ---
 
