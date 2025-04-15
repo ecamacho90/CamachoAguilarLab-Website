@@ -16,9 +16,9 @@ nav:
 
 ## Previous members
 
-Irene Carrero Castro (MSc Student)
+Irene Carrero Castro (MSc Student, University of Seville)
 
-Grace Wang (Undergraduate Researcher)
+Grace Wang (Undergraduate Researcher, Rice University)
 
 {% include section.html dark=true %}
 
