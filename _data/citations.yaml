@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cels.2024.04.001
+  title: Combinatorial interpretation of BMP and WNT controls the decision between
+    primitive streak and extraembryonic fates
+  authors:
+  - Elena Camacho-Aguilar<sup>+</sup>
+  - Sumin Yoon
+  - Miguel A. Ortiz-Salazar
+  - Siqi Du
+  - M. Cecilia Guerra
+  - Aryeh Warmflash<sup>+</sup>
+  publisher: Cell Systems
+  date: '2024-05-15'
+  link: https://doi.org/10.1016/j.cels.2024.04.001
+  orcid: 0000-0001-9058-6663
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Graphical_Abstract_v5_Final.jpg
+  repo: https://github.com/warmflashlab/Camacho-Aguilar2022_BMPWNT
 - id: doi:10.1101/2024.03.13.584912
   title: Endogenous Nodal switches Wnt interpretation from posteriorization to germ
     layer differentiation in geometrically constrained human pluripotent cells
@@ -128,21 +146,3 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0070215320X00032-cov200h.gif
-- id: doi:10.1016/j.cels.2024.04.001
-  title: Combinatorial interpretation of BMP and WNT controls the decision between
-    primitive streak and extraembryonic fates
-  authors:
-  - Elena Camacho-Aguilar<sup>+</sup>
-  - Sumin Yoon
-  - Miguel A. Ortiz-Salazar
-  - Siqi Du
-  - M. Cecilia Guerra
-  - Aryeh Warmflash<sup>+</sup>
-  publisher: Cell Systems
-  date: '2024-05-15'
-  link: https://doi.org/10.1016/j.cels.2024.04.001
-  orcid: 0000-0001-9058-6663
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Graphical_Abstract_v5_Final.jpg
-  repo: https://github.com/warmflashlab/Camacho-Aguilar2022_BMPWNT
