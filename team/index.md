@@ -21,6 +21,7 @@ If you are interested in becoming involved in our research, please [reach out](/
 # Previous members
 
 Irene Carrero Castro (MSc Student)
+
 Grace Wang (Undergraduate Researcher)
 
 {% capture content %}
