@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the [University of Seville](https://www.us.es/) ([Department of Applied Mathematics I](http://ma1.us.es/) and is based at the [Centro Andaluz de Biologia del Desarrollo (CABD)](https://www.cabd.es/). The CABD is a mixed center funded by the [Universidad Pablo de Olavide (UPO)](https://www.upo.es/portal/impe/web/portada/index.html), the [Consejo Superior de Investigaciones Cientificas](https://www.csic.es/en) and the regional government [Junta de Andalucia](https://www.juntadeandalucia.es/). Our lab is also affiliated to the [Institute of Mathematics](https://imus.us.es/) at the University of Seville.
+Our lab is part of the [University of Seville](https://www.us.es/) ([Department of Applied Mathematics I](http://ma1.us.es/)) and is based at the [Centro Andaluz de Biologia del Desarrollo (CABD)](https://www.cabd.es/). The CABD is a mixed center funded by the [Universidad Pablo de Olavide (UPO)](https://www.upo.es/portal/impe/web/portada/index.html), the [Consejo Superior de Investigaciones Cientificas](https://www.csic.es/en) and the regional government [Junta de Andalucia](https://www.juntadeandalucia.es/). Our lab is also affiliated to the [Institute of Mathematics](https://imus.us.es/) at the University of Seville.
 
 {%
   include button.html
