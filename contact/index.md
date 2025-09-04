@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located at the [Centro Andaluz de Biologia del Desarrollo (CABD)](https://www.cabd.es/), inside the campus of the [Universidad Pablo de Olavide (UPO)](https://www.upo.es/portal/impe/web/portada/index.html). It is a mixed center funded by the [Universidad Pablo de Olavide (UPO)](https://www.upo.es/portal/impe/web/portada/index.html), the [Consejo Superior de Investigaciones Cientificas](https://www.csic.es/en) and the regional government [Junta de Andalucia](https://www.juntadeandalucia.es/).
+Our lab is part of the [University of Seville](https://www.us.es/) ([Department of Applied Mathematics I](http://ma1.us.es/) and is based at the [Centro Andaluz de Biologia del Desarrollo (CABD)](https://www.cabd.es/). The CABD is a mixed center funded by the [Universidad Pablo de Olavide (UPO)](https://www.upo.es/portal/impe/web/portada/index.html), the [Consejo Superior de Investigaciones Cientificas](https://www.csic.es/en) and the regional government [Junta de Andalucia](https://www.juntadeandalucia.es/). Our lab is also affiliated to the [Institute of Mathematics](https://imus.us.es/) at the University of Seville.
 
 {%
   include button.html
@@ -26,6 +26,12 @@ Our lab is located at the [Centro Andaluz de Biologia del Desarrollo (CABD)](htt
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/UhFQZeyyFMNAH2yPA"
+%}
+
+{%
+  include figure.html
+  image="images/Logos.jpeg"
+  caption=""
 %}
 
 {% include section.html %}
