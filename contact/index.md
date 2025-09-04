@@ -12,8 +12,8 @@ Our lab is part of the [University of Seville](https://www.us.es/) ([Department 
 {%
   include button.html
   type="email"
-  text="ecamagu <i>at</i> upo.es"
-  link="ecamagu@upo.es"
+  text="ecamagu <i>at</i> us.es"
+  link="ecamagu@us.es"
 %}
 {%
   include button.html
