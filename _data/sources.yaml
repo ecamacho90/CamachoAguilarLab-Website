@@ -1,4 +1,22 @@
-- id: doi:10.1016/j.cels.2024.04.001
+  - id: doi.org/10.1101/2025.07.11.664380
+  title: Juxtaposition of human pluripotent stem cells with amnion-like cells is sufficient to trigger primitive streak formation
+  authors:
+  - Xiangyu Kong
+  - Anastasiia Nemashkalo
+  - M. Cecilia Guerra
+  - Miguel A. Ortiz-Salazar 
+  - M. Cecilia Guerra
+  - Elena Camacho-Aguilar
+  - Aryeh Warmflash<sup>+</sup>
+  publisher: Pre-print on bioRxiv
+  date: '2025-07-14'
+  link: https://doi.org/10.1101/2025.07.11.664380
+  orcid: 0000-0001-9058-6663
+  plugin: sources.py
+  file: sources.yaml
+  image: images/KONG_Juxtaposition.jpg
+  
+  - id: doi:10.1016/j.cels.2024.04.001
   title: Combinatorial interpretation of BMP and WNT controls the decision between primitive streak and extraembryonic fates
   authors:
   - Elena Camacho-Aguilar<sup>+</sup>
