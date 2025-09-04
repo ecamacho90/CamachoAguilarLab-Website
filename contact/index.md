@@ -30,7 +30,7 @@ Our lab is part of the [University of Seville](https://www.us.es/) ([Department 
 
 {%
   include figure.html
-  image="images/Logos.jpeg"
+  image="images/Logos.jpg"
   caption=""
 %}
 
