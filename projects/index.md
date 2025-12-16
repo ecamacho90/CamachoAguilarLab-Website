@@ -25,7 +25,7 @@ We are dedicated to merging **stem cell research** and **mathematics** to enhanc
 {% capture content %}
   ![](/images/Research_8X3A0230.jpg)
 
-  ![](/images/Research_upattern.jpg)
+  ![](/images/Research_upattern_RGB.jpg)
 
   ![](/images/Research_8X3A0258.jpg)
 {% endcapture %}
